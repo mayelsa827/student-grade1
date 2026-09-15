@@ -18,3 +18,4 @@ else:
 print("Student:", name)
 print("Result:", result)
 )
+print("Thank you for using the program.")
